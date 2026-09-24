@@ -1,7 +1,7 @@
 {
-  "version": "6.5.0",
-  "installer_url": "https://github.com/leonardobuzzo-creator/Controle-Financeiro-Updates/releases/download/v6.5.0/ControleFinanceiro-Setup-6.5.0.exe",
-  "sha256": "862a505d18f8c22d6a64fb11fdd2600b341c119b25a73544bed109ecd99d5522",
-  "patch_url": "https://github.com/leonardobuzzo-creator/Controle-Financeiro-Updates/releases/download/v6.5.0/ControleFinanceiro-Patch-6.5.0.zip",
-  "patch_sha256": "825c702541961cefd81e71c1e088c90a184e88b3ddd4a003d6ec4042304b4da4"
+  "version": "6.6.0",
+  "installer_url": "https://github.com/leonardobuzzo-creator/Controle-Financeiro-Updates/releases/download/v6.6.0/ControleFinanceiro-Setup-6.6.0.exe",
+  "sha256": "e408d2823bd521ac21ee3aa75aa94ab6c2300214328c9b60a50036c662cd1174",
+  "patch_url": "https://github.com/leonardobuzzo-creator/Controle-Financeiro-Updates/releases/download/v6.6.0/ControleFinanceiro-Patch-6.6.0.zip",
+  "patch_sha256": "f0cecd136cb437aa645f786500ccedac1b063d9344509c28c80be8c9193ec037"
 }
